@@ -1,5 +1,6 @@
 # React Projects
 
+## Quick Reusable Component
 
 
 ## Things to remember from docs:
@@ -9,5 +10,6 @@
 - CRA is dead, move to vite+js or vite+ts
 
 
-# Get Away from Class Based Components.
+## Get Away from Class Based Components.
 - Lean towards Functional components.
+
